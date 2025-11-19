@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **Spring Boot, Docker, React**
+🌱 I’m currently learning **Spring Boot, Docker, React**
 
 - ## 🧑‍💻 About Me
 안녕하세요, 백엔드 개발자를 목표로 꾸준히 성장하고 있는 박상우입니다.
@@ -18,13 +18,12 @@ Java & Spring Boot를 중심으로 서버 구조와 API 설계, 데이터 처리
 - [hackathon - 러닝 트랙 생성 플랫폼]([link](https://github.com/Krugss/hackathon-1))
 
 ## 🛠 Tech Stack
-(Spring / JPA / React / Python / AI 등 아이콘)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
