@@ -1,10 +1,12 @@
 🌱 I’m currently learning **Spring Boot, Docker, React**
 
+
 - ## 🧑‍💻 About Me
 안녕하세요, 백엔드 개발자를 목표로 꾸준히 성장하고 있는 박상우입니다.
 Java & Spring Boot를 중심으로 서버 구조와 API 설계, 데이터 처리 전반에 대해 경험을 확장하고 있으며,
 부트캠프 프로젝트를 통해 스프링 생태계 전반에 대한 깊이 있는 이해를 쌓고 있습니다.
 또한 사용자 경험을 더 잘 이해하기 위해 React 기반 프론트엔드 개발도 함께 학습하고 있습니다.
+- 🚀 NHN Academy 7기 (Chaekmate Project)
 
 ## ✨ Projects
 - 📦 **Chaekmate** – Bookstore Platform(Spring + Redis + Mysql + Swagger)
@@ -35,6 +37,5 @@ Java & Spring Boot를 중심으로 서버 구조와 API 설계, 데이터 처리
 
 ## 📫 Contact
 
-- 🚀 NHN Academy 7기 (Chaekmate Project)
 - 📫 Contact: dev.parksangwoo@gmail.com
 - 📝 notion: [https://velog.io/@qkrtk123](https://www.notion.so/NHN-248fc7cb1e2b804fabbbf1ce8a56b077?source=copy_link)
