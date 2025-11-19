@@ -7,11 +7,11 @@ Java & Spring Boot를 중심으로 서버 구조와 API 설계, 데이터 처리
 또한 사용자 경험을 더 잘 이해하기 위해 React 기반 프론트엔드 개발도 함께 학습하고 있습니다.
 
 ## ✨ Projects
-- 📦 **Chaekmate** – Bookstore Platform  
-- 🎧 **AI Audio Transceiver** – Morse/FFT Encoding  
-- 🎯 **CNU Airport System** – Reservation + Spring + JPA
-
-
+- 📦 **Chaekmate** – Bookstore Platform(Spring + Redis + Mysql + Swagger)
+- **hackathon** - 러닝 트랙 생성 플랫폼
+- 🎯 **CNU Airport System** – 항공 서비스 만들기(Spring + Mysql)
+- **웹 프로그래밍** - 쇼핑몰 만들기 프로젝트 (처음으로 만들어본 웹 사이트) 로컬 서버로 돌아감(Spring + Mysql)
+- 
 ## 🚀 Portfolio
 ### ⭐ 주요 프로젝트
 - [Chaekmate - 책 기반 이커머스 플랫폼]([link](https://chaekmate.shop/) 11.20일 3차 배포) ([폴더 link](https://github.com/nhnacademy-be11-1)) <-- 현재 집중 중인 개발 (11월 4째 주 마감)
