@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning **Spring Boot, JPA, MySQL, React**
 - 🚀 NHN Academy BE11-1 (Chaekmate Project)
-- 📫 Contact: qkrtk123@example.com
-- 📝 Blog: https://velog.io/@qkrtk123
+- 📫 Contact: dev.parksangwoo@gmail.com
+- 📝 notion: [https://velog.io/@qkrtk123](https://www.notion.so/NHN-248fc7cb1e2b804fabbbf1ce8a56b077?source=copy_link)
 
 ---
 
@@ -39,7 +39,7 @@
 - 🎯 **CNU Airport System** – Reservation + Spring + JPA
 
 - ## 🧑‍💻 About Me
-백엔드 & AI 개발자 박상우입니다.
+백엔드 개발자를  박상우입니다.
 
 ## 🚀 Portfolio
 ### ⭐ 주요 프로젝트
