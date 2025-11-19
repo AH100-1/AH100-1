@@ -17,7 +17,7 @@ Java & Spring Boot를 중심으로 서버 구조와 API 설계, 데이터 처리
 ## 🚀 Portfolio
 ### ⭐ 주요 프로젝트
 - [Chaekmate - 책 기반 이커머스 플랫폼]([link](https://chaekmate.shop/) 11.20일 3차 배포) ([폴더 link](https://github.com/nhnacademy-be11-1)) <-- 현재 집중 중인 개발 (11월 4째 주 마감)
-- [hackathon - 러닝 트랙 생성 플랫폼]([link] (https://github.com/Krugss/hackathon-1))
+- [hackathon - 러닝 트랙 생성 플랫폼] ([link](https://github.com/Krugss/hackathon-1))
 
 ## 🛠 Tech Stack
 
