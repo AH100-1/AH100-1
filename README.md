@@ -9,9 +9,9 @@ Java & Spring Boot를 중심으로 서버 구조와 API 설계, 데이터 처리
 - 🚀 NHN Academy 7기 (Chaekmate Project)
 
 ## ✨ Projects
-- 📦 **Chaekmate** – Bookstore Platform(Spring + Redis + Mysql + Swagger)
+- **Chaekmate** – Bookstore Platform(Spring + Redis + Mysql + Swagger)
 - **hackathon** - 러닝 트랙 생성 플랫폼
-- 🎯 **CNU Airport System** – 항공 서비스 만들기(Spring + Mysql)
+- **CNU Airport System** – 항공 서비스 만들기(Spring + Mysql)
 - **웹 프로그래밍** - 쇼핑몰 만들기 프로젝트 (처음으로 만들어본 웹 사이트) 로컬 서버로 돌아감(Spring + Mysql)
   
 ## 🚀 Portfolio
