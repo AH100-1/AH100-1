@@ -38,3 +38,18 @@
 - 🎧 **AI Audio Transceiver** – Morse/FFT Encoding  
 - 🎯 **CNU Airport System** – Reservation + Spring + JPA
 
+- ## 🧑‍💻 About Me
+백엔드 & AI 개발자 박상우입니다.
+
+## 🚀 Portfolio
+### ⭐ 주요 프로젝트
+- [Chaekmate - 책 기반 이커머스 플랫폼](link)
+- [AI PPT Generator](link)
+- [UDP File Transfer - Go-Back-N ARQ](link)
+
+## 🛠 Tech Stack
+(Spring / JPA / React / Python / AI 등 아이콘)
+
+## 📫 Contact
+이메일, 블로그, LinkedIn 등
+
