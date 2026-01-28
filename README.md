@@ -7,6 +7,7 @@ Java & Spring Boot를 중심으로 서버 구조와 API 설계, 데이터 처리
 부트캠프 프로젝트를 통해 스프링 생태계 전반에 대한 깊이 있는 이해를 쌓고 있습니다.
 또한 사용자 경험을 더 잘 이해하기 위해 React 기반 프론트엔드 개발도 함께 학습하고 있습니다.
 - 🚀 NHN Academy 7기 (Chaekmate Project)
+- 그린다에이아이 인턴
 
 ## ✨ Projects
 - **Chaekmate** – Bookstore Platform(Spring + Redis + Mysql + Swagger)
