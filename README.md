@@ -24,7 +24,7 @@ AI 스타트업에서 B2B SaaS의 **프로덕션 백엔드**를 개발했습니�
 |---|---|---|
 | [**chaekmate**](https://github.com/nhnacademy-be11-1) | MSA 온라인 서점 (NHN Academy 팀). 포인트·리뷰 도메인 담당. 이력 원장 방식의 포인트, `AFTER_COMMIT` 이벤트 기반 적립·복구 | Spring Boot 3, Spring Cloud, JPA, Redis, RabbitMQ |
 | [**SkyLens 3D**](https://github.com/AH100-1/cumulus3d) | 드론 편대 영상 3D 복원 (NET 챌린지). COLMAP/GLOMAP, 3DGS 실험, V100 HPC 이식. Rust 점진 복원 엔진 | Python, Rust, CUDA, Slurm |
-| [**PawFeeder**](https://github.com/pet-project-1/pet-project) | 보호소 개체 인식 자동 급식기 (종합설계1 A+). 웹과 Supabase 담당 | React, Supabase, pgvector, YOLOv8 |
+| [**PawFeeder**](https://github.com/pet-project-1/pet-project) | 보호소 개체 인식 자동 급식기. 웹과 Supabase 담당 | React, Supabase, pgvector, YOLOv8 |
 
 ### 🛠 Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
